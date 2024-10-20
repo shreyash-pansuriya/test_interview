@@ -1,0 +1,86 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+.macos/
+android/.gradle/
+android/app/key.properties
+
+# Symbolication files
+*.symbols
+
+# Obfuscation symbol map
+*.map.json
+
+# Android Studio/IntelliJ related
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code related
+.vscode/
+
+# Xcode related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+ios/DerivedData/
+ios/.generated/
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/Flutter.framework/
+macos/Flutter/Flutter.podspec
+macos/Runner.xcworkspace/
+macos/DerivedData/
+macos/.generated/
+
+# Web related
+web/.dart_tool/
+web/.flutter-plugins
+web/.flutter-plugins-dependencies
+
+# Linux related
+linux/flutter/ephemeral/
+linux/.dart_tool/
+linux/.flutter-plugins
+linux/.flutter-plugins-dependencies
+linux/flutter/generated_plugin_registrant.cc
+
+# Windows related
+windows/flutter/ephemeral/
+windows/.dart_tool/
+windows/.flutter-plugins
+windows/.flutter-plugins-dependencies
+windows/flutter/generated_plugin_registrant.cc
+
+# Generated files
+*.log
+*.lock
+*.temp
+*.tmp
+
+# Miscellaneous
+.DS_Store
+.idea/
+*.swp
+*~
+
+# Android local properties file (contains local paths)
+android/local.properties
+
+# Flutter build files
+build/
+
+# Coverage files
+coverage/
+
+# Package Config
+.dart_tool/
+.packages
